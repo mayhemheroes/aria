@@ -1,0 +1,6 @@
+project: rnshah9/mayhem-aria
+target: aria
+
+cmds:
+  - cmd: /repo/aria @@
+    filepath: /test.lsp
