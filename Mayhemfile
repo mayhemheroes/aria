@@ -1,6 +1,6 @@
-project: rnshah9/mayhem-aria
+project: aria
 target: aria
 
 cmds:
-  - cmd: /repo/aria @@
+  - cmd: /repo/aria /test.lsp
     filepath: /test.lsp
