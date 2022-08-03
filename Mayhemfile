@@ -2,5 +2,4 @@ project: aria
 target: aria
 
 cmds:
-  - cmd: /repo/aria /test.lsp
-    filepath: /test.lsp
+  - cmd: /aria @@
