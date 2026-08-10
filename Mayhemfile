@@ -1,0 +1,5 @@
+project: aria
+target: aria
+
+cmds:
+  - cmd: /aria @@
